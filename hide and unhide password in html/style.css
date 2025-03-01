@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+body{
+    background: #4f4ae6;
+
+}
+
+.input_box{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 300px auto;
+    background: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.input_box input{
+    width: 100%;
+    padding: 10px 0;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    color: #555;
+}
+
+.input_box img{
+    width: 45px;
+    cursor: pointer;
+    &:hover{
+        /* font-size: 20px; */
+        color: pink;
+    }
+}
