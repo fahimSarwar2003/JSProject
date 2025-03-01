@@ -1,1 +1,1 @@
-faheemsarwar.netlify.app
+https://faheemsarwar.netlify.app/
